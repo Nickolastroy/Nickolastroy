@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nickolastroy
+- 👀 I’m interested in building computers, electronics.
+- 🌱 I’m currently learning Swift
